@@ -8,12 +8,12 @@
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente atuo como **dev backend** usando Node.js, NestJS e PostgreSQL.  
-🔍 Estudando Clean Architecture, DDD e princípios SOLID.  
+🎓 Atualmente atuo como **dev backend** na **MGE Tech** usando Node.js, NestJS e PostgreSQL.  
+🔍 Estudando e evoluindo cada vez mais como **dev backend**!  
 📦 Tenho experiência com **Docker**, versionamento com **Git**, e testes automatizados.
 
 💼 Também trabalho com manutenção e evolução de sistemas corporativos.  
-🔧 Estou construindo projetos próprios para o portfólio, como sistemas de reservas e gestão de aluguéis.
+🔧 Estou contante evolução e sempre criando projetos próprios para o portfólio.
 
 ---
 
@@ -28,26 +28,17 @@
 
 ---
 
-## 📚 Estou aprendendo
-
-- Testes com Jest e Supertest
-- Deploy com Docker + Railway
-- Boas práticas de Clean Code
-- Design Patterns com Node.js
-
----
-
 ## 🧠 Projetos em destaque
 
-🔗 [reservas-api](https://github.com/Reistr12/reservas-api) — Sistema de reservas de hotel com autenticação, validação e arquitetura limpa.  
-🔗 [API-Cadastro](https://github.com/Reistr12/API-Cadastro) — Cadastro de usuários com NestJS, banco de dados e autenticação JWT.
+🔗 [recipes-catolog-api](https://github.com/Reistr12/recipe-catalog-api) — API desenvolvida teste de vaga onde permite criar um catalogo de receitas.  
+🔗 [Rental-api](https://github.com/Reistr12/rental-api) — API que conecta propietários de quartos disponiveis para aluguel e inquilinos.
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-reis-13a035350/)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reisdev.gabriel@gmail.com)
 
 ---
 
