@@ -30,9 +30,9 @@
 
 ## 🧠 Projetos em destaque
 
-🔗 [recipes-catolog-api](https://github.com/Reistr12/recipe-catalog-api) — API desenvolvida teste de vaga onde permite criar um catalogo de receitas.  
-🔗 [Rental-api](https://github.com/Reistr12/rental-api) — API que conecta propietários de quartos disponiveis para aluguel e inquilinos.
-🔗 [Reserve-api](https://github.com/Reistr12/reservas-api) — API que permite cadastrar quadras esportivas e gerenciar reservas.
+🔗 [recipes-catolog-api](https://github.com/Reistr12/recipe-catalog-api) — API desenvolvida teste de vaga onde permite criar um catalogo de receitas. <br>  
+🔗 [Rental-api](https://github.com/Reistr12/rental-api) — API que conecta propietários de quartos disponiveis para aluguel e inquilinos.<br>  
+🔗 [Reserve-api](https://github.com/Reistr12/reservas-api) — API que permite cadastrar quadras esportivas e gerenciar reservas.<br>  
 
 
 ---
