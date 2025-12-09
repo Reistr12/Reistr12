@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend Node.js | Apaixonado por tecnologia, arquitetura de software e boas práticas de código.
+  Desenvolvedor Full-Stack | Apaixonado por tecnologia, arquitetura de software e boas práticas de código.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente atuo como **dev backend** na **MGE Tech** usando Node.js, NestJS e PostgreSQL.  
+🎓 Atualmente atuo como **dev Full-Stack** na **Betruck** usando Node.js, NestJS, React e PostgreSQL.  
 🔍 Estudando e evoluindo cada vez mais como **dev backend**!  
 📦 Tenho experiência com **Docker**, versionamento com **Git**, e testes automatizados.
 
